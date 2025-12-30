@@ -2,7 +2,7 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "./App.css";
 
-const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "'http://localhost:8000'";
+const BACKEND_URL = process.env.REACT_APP_BACKEND_URL || "http://136.112.16.53:8000";
 const API = `${BACKEND_URL}/api`;
 
 const getFullImageUrl = (url) => {
