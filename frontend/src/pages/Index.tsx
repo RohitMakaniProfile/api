@@ -5,7 +5,7 @@ import "../App.css"; // ya jahan tumhara global CSS hai
 
 // Vite env style
 const BACKEND_URL =
-  import.meta.env.VITE_BACKEND_URL || "http://136.112.16.53:8000";
+  const BACKEND_URL = process.env.VITE_API_URL || "https://luna-backend-xxxxx.run.app";
 const API = `${BACKEND_URL}/api`;
 
 const getFullImageUrl = (url: string | null | undefined) => {
