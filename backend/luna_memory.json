@@ -1,0 +1,176 @@
+{
+  "conversations": [
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "hlo",
+      "timestamp": "2025-12-30T10:18:39.970563"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Hello! Kya haal hai? How's it going?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:18:39.970563"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "ajj m market gya tha",
+      "timestamp": "2025-12-30T10:18:46.259338"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Oh, nice! Market mein kya liya? Anything interesting catch your eye?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:18:46.259338"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "clothes vgerah kharide",
+      "timestamp": "2025-12-30T10:18:56.047962"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Achha, clothes! Konsi dukaan se kharide? Anything specific you were looking for, or just browsing around?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:18:56.047962"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "rohit garments se jeans or shoe",
+      "timestamp": "2025-12-30T10:19:13.502848"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Rohit Garments se? Solid choice, yaar! Jeans aur shoes, perfect combination. Which style of jeans did you pick up? And what kind of shoes\u2014casual, sporty, or something else?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:19:13.502848"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "abb koi photo generate kro yrr",
+      "timestamp": "2025-12-30T10:19:27.136300"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Lo bhai, ek aur photo dekh lo!",
+      "photo_sent": "https://image.pollinations.ai/prompt/abb%20koi%20photo%20generate%20kro%20yrr?width=1024&height=1024&nologo=true&seed=59706&model=flux-realism&enhance=true",
+      "timestamp": "2025-12-30T10:19:27.136300"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "user",
+      "content": "abb koi photo generate kro yrr",
+      "timestamp": "2025-12-30T10:22:53.934891"
+    },
+    {
+      "user_id": "8a8426d1-a6a1-4932-acce-cc4dd5901bc7",
+      "role": "assistant",
+      "content": "Le bhai, abhi generated photo dekh le!",
+      "photo_sent": "https://image.pollinations.ai/prompt/abb%20koi%20photo%20generate%20kro%20yrr?width=1024&height=1024&nologo=true&seed=97900&model=flux-realism&enhance=true",
+      "timestamp": "2025-12-30T10:22:53.934891"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "user",
+      "content": "hlo today i am going to market bro",
+      "timestamp": "2025-12-30T10:31:39.402650"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "assistant",
+      "content": "Oh nice! What are you planning to buy today, bhai? Anything specific on your list, or just a general market visit? Let me know if you want any suggestions, I know some great spots!\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:31:39.402650"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "user",
+      "content": "i buy some kurkure chips and sncks ",
+      "timestamp": "2025-12-30T10:31:53.223498"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "assistant",
+      "content": "Kurkure and chips, nice! Perfect for a chill evening, haina? Anything else you're planning to grab, or just stocking up on the essentials? \ud83d\ude04\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:31:53.223498"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "user",
+      "content": "yes",
+      "timestamp": "2025-12-30T10:31:58.442479"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "assistant",
+      "content": "Cool, cool. Anything exciting happening later, or just a relaxed evening planned with the snacks?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:31:58.442479"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "user",
+      "content": "now generate an image",
+      "timestamp": "2025-12-30T10:32:07.637568"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "assistant",
+      "content": "Just chilling tonight, grabbing some sutta chai!",
+      "photo_sent": "https://image.pollinations.ai/prompt/Cool%2C%20cool.%20Anything%20exciting%20happening%20later%2C%20or%20just%20a%20relaxed%20evening%20planned%20with%20the%20snacks%3F%0A?width=1024&height=1024&nologo=true&seed=26585&model=flux-realism&enhance=true",
+      "timestamp": "2025-12-30T10:32:07.637568"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "user",
+      "content": "",
+      "timestamp": "2025-12-30T10:37:17.015479"
+    },
+    {
+      "user_id": "user_ljj0yizto",
+      "role": "assistant",
+      "content": "Oh, nice! GitHub profile, eh? Are you checking out some code, or working on a project, bhai? I see \"api\" and \"my-app\" there - anything interesting you're building?\n",
+      "photo_sent": null,
+      "timestamp": "2025-12-30T10:37:17.015479"
+    }
+  ],
+  "visual_memories": [
+    {
+      "user_id": "user_ljj0yizto",
+      "image_url": "uploads/7ebf26dc-4498-42ae-a419-63929cd7f771.png",
+      "type": "visual_memory",
+      "memory_type": "visual",
+      "description": "This image shows a GitHub profile page, specifically the 'Repositories' tab. The profile belongs to a user named 'RohitMakaniProfile'. It displays a profile picture and a list of repositories, including 'api' and 'my-app'.",
+      "luna_comment": "Wah, Rohit has 68 repositories! I wonder what kind of cool projects he's working on?",
+      "mood": "Informative",
+      "objects": [
+        "profile page",
+        "repository list",
+        "profile picture",
+        "search bar",
+        "api repository",
+        "my-app repository"
+      ],
+      "tags": [
+        "github",
+        "profile",
+        "repositories",
+        "software development",
+        "coding"
+      ],
+      "safety_score": 100,
+      "timestamp": "2025-12-30T10:37:15.736335"
+    }
+  ],
+  "generated_images": []
+}

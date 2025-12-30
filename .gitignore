@@ -1,0 +1,64 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+package-lock.json
+yarn.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.db
+*.sqlite3
+
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Misc
+*.bak
+*.swp
+*~
+.#*
+uploads/
+temp/
+tmp/
+
+# macOS
+.AppleDouble
+.LSOverride
