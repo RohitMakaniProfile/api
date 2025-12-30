@@ -3,12 +3,10 @@ import React, { useState, useEffect, useRef } from "react";
 import axios from "axios";
 import "../App.css"; // ya jahan tumhara global CSS hai
 
-// Vite env style
 // ✅ CORRECT
 const BACKEND_URL = process.env.VITE_API_URL || "https://luna-backend-xxxxx.run.app";
 const API = `${BACKEND_URL}/api`;
 
-// बाकी code...
 
 const getFullImageUrl = (url: string | null | undefined) => {
   if (!url) return null;
