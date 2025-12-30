@@ -4,7 +4,8 @@ import axios from "axios";
 import "../App.css"; // ya jahan tumhara global CSS hai
 
 // ✅ CORRECT
-const BACKEND_URL = process.env.VITE_API_URL || "https://luna-backend-xxxxx.run.app";
+// Fallback hata kar sirf variable rakhein
+const BACKEND_URL = import.meta.env.VITE_API_URL || "http://34.14.151.51:8000";
 const API = `${BACKEND_URL}/api`;
 
 
